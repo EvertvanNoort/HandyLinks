@@ -1,0 +1,3 @@
+https://paletton.com/
+https://colorbrewer2.org/#type=diverging&scheme=RdBu&n=6
+https://coolors.co/909cc2-084887-f58a07-f9ab55-f7f5fb
